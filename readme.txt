@@ -1,4 +1,4 @@
-R3.19 Développement front
+R3.12 Intégration et développement front (Partie Javascript)
 
 TP1
 
