@@ -67,6 +67,6 @@ for(let i=0; i<spans.length; i++){
    A un certain point, cela peut nuire à la réactivité de l'interface, ou faire des applications qui vident un peu vite
    les batteries des terminaux mobiles.
 
-   Donc dans l'exerice suivant, vous allez améliorer ce dernier point.
+   Donc dans un prochain TP, vous améliorerez ce dernier point.
   
 */
